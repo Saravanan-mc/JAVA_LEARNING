@@ -1,5 +1,5 @@
-public class Nested_If_Else {
-    public static void main(String[] args) {
+class Nested_If_Else {
+    public static void main(String[] args){
         int a = 10, c = 15, d = 20;
         if(d > a) {
             if(d > c)
