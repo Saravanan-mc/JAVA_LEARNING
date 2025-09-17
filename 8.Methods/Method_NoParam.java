@@ -7,4 +7,4 @@ public class Method_NoParam {
         Method_NoParam obj = new Method_NoParam();
         obj.greet();
     }
-}
+} 
