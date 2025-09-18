@@ -7,7 +7,7 @@ class person{ //class
         System.out.println(name+"\n"+age);
     }
 }
-public class ClassObject{
+public class ClassObj{
     public static void main(String[] args){
         person obj = new person(); // create object 
         obj.name="Hello";
