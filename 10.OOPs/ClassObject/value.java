@@ -1,3 +1,5 @@
+package ClassObject; // remove this line to solve the error
+
 class valueset{
     String name;
     int n;
