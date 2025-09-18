@@ -3,7 +3,7 @@ public class Math_Trigonometry {
         double angle = Math.toRadians(30);
 
         System.out.println(Math.sin(angle));
-        System.out.println(Math.cos(angle));
+        System.out.println(Math.cos(angle));    
         System.out.println(Math.tan(angle));
 
         System.out.println(Math.asin(0.5));
