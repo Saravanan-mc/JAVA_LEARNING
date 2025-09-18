@@ -11,6 +11,6 @@ class DefaultExample {
 public class TestDefault {
     public static void main(String[] args) {
         DefaultExample obj = new DefaultExample();
-        obj.display();
+        obj.display();       
     }
 }
