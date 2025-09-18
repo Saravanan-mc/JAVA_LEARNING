@@ -9,7 +9,7 @@ class person{ //class
 }
 public class ClassObject{
     public static void main(String[] args){
-        person obj = new person();
+        person obj = new person(); // create object 
         obj.name="Hello";
         obj.age=19;
         obj.display();
