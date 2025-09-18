@@ -1,5 +1,3 @@
-package Encapsulation;
-
 public class PublicExample {
     public String name = "Alice";  // access any where 
 

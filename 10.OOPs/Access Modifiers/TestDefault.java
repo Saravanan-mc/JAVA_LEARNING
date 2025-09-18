@@ -1,5 +1,3 @@
-package Encapsulation;
-
 class DefaultExample {
     String city = "Chennai";  // default
 

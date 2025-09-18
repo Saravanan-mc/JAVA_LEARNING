@@ -1,5 +1,3 @@
-package Encapsulation;
-
 class PrivateExample {
     private int age = 21; // private access in the method
 

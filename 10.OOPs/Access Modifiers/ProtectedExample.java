@@ -1,5 +1,3 @@
-package Encapsulation;
-
 class Animal {
     protected String type = "Dog";
 
