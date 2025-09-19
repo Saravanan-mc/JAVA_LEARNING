@@ -1,8 +1,10 @@
+
+
 class Animal {
     protected String type = "Dog";
 
     protected void sound() {
-        System.out.println("Bark!");
+        System.out.println("Bark");
     }
 }
 
